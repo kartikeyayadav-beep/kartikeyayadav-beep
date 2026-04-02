@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kartikeya Yadav
 
-"Fortes fortuna adiuvat."
+
 
 🧬 BTech Biotechnology Student
 💻 C Programmer | Learning Systems

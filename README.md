@@ -1,30 +1,72 @@
-# 👋 Hi, I'm Kartikeya Yadav
+<h1 align="center">Kartikeya Yadav</h1>
 
-
-
-🧬 BTech Biotechnology Student
-💻 C Programmer | Learning Systems
-🚀 Exploring code alongside science
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&lines=Initializing+system...;Access+granted...;Building+the+future...;Learning+never+stops&center=true&width=500&height=50">
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
-
-* C Programming
-* File Handling
-* Modular Programming
-* VS Code
-* Git & GitHub
+<p align="center">
+  <i>"Fortes fortuna adiuvat."</i>
+</p>
 
 ---
 
-## 🚀 Projects
+## 🧬 > whoami
 
-* 🍽️ Cafeteria Billing System (C Project)
+* 🎓 BTech Biotechnology Student
+* 💻 C Programmer
+* ⚙️ System thinker | Logic driven
+* 🧠 Learning. Building. Evolving.
 
 ---
 
-## 📈 Currently Learning
+## 🛠️ > tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,git,github,vscode" />
+</p>
+
+---
+
+## 📊 > stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikeyayadav-beep&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeyayadav-beep&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🚀 > project.log
+
+* Cafeteria Billing System
+  → authentication | billing | file handling
+
+---
+
+## 🧠 > philosophy
+
+> "Ars longa, vita brevis."
+> Code is temporary. Systems are eternal.
+
+---
+
+## ⚡ > loop
+
+```c
+while(alive) {
+    learn();
+    build();
+    evolve();
+}
+```
+
+---
+
+<p align="center">
+  printf("Accessing future...");
+</p>
 
 * Data Structures
 * Problem Solving

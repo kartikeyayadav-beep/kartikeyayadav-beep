@@ -81,3 +81,7 @@ I build systems and debug life the same way.
 ---
 
 printf("Building the future 🚀");
+
+## 🐍 Contribution Snake
+
+![snake](https://github.com/kartikeyayadav-beep/kartikeyayadav-beep/blob/output/github-contribution-grid-snake.svg)

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=250&color=0:00ff00,100:000000&text=Kartikeya%20Yadav&fontColor=00ff00&animation=fadeIn&fontAlignY=40)
+
 <h1 align="center">Kartikeya Yadav</h1>
 
 <p align="center">

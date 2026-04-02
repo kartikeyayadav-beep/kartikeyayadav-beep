@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Kartikeya Yadav
 
-<!--
-**kartikeyayadav-beep/kartikeyayadav-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"Fortes fortuna adiuvat."
 
-Here are some ideas to get you started:
+🧬 BTech Biotechnology Student
+💻 C Programmer | Learning Systems
+🚀 Exploring code alongside science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+
+* C Programming
+* File Handling
+* Modular Programming
+* VS Code
+* Git & GitHub
+
+---
+
+## 🚀 Projects
+
+* 🍽️ Cafeteria Billing System (C Project)
+
+---
+
+## 📈 Currently Learning
+
+* Data Structures
+* Problem Solving
+* Real-world Project Development
+
+---
+
+## ⚡ Fun Fact
+
+I build systems and debug life the same way.
+
+---
+
+printf("Building the future 🚀");
